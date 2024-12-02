@@ -17,7 +17,6 @@ int main() {
 			}
 		}
 	}
-
 	printf("%d \n%d %d", maxi, x, y);
 
 	return 0;
